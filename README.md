@@ -38,5 +38,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkaujlor&show_icons=true&locale=en" alt="nkaujlor" /></p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nkaujlor&&theme=xcode)](https://github.com/nkaujlor)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaujlor&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nkaujlor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkaujlor&show_icons=true&locale=en&theme=tokyonight" alt="nkaujlor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkaujlor&&theme=tokyonight" alt="rishavchanda" /></p>
 
