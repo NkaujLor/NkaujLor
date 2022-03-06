@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Nkauj (Gao) Lor</h1>
 <h3 align="center">A passionate cyber security learner</h3>
-<h4 align="center">Be brave enough to suck at something new</h4>
-<img align="center" alt="Coding" src="https://c.tenor.com/sFPpFo7shwsAAAAd/ene-in-progress-smile.gif">
+<h4 align="center">"Be brave enough to suck at something new"</h4>
+<img align="center"alt="Coding" src="https://c.tenor.com/sFPpFo7shwsAAAAd/ene-in-progress-smile.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkaujlor&label=Profile%20views&color=0e75b6&style=flat" alt="nkaujlor" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NkaujLor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
