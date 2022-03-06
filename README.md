@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nkauj (Gao) Lor</h1>
 <h3 align="center">A passionate cyber security learner</h3>
 <h4 align="center">Be brave enough to suck at something new</h4>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/ene-in-progress-smile-laugh-gif-13458395">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkaujlor&label=Profile%20views&color=0e75b6&style=flat" alt="nkaujlor" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NkaujLor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
