@@ -1,13 +1,13 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=NkaujLor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h1 align="center">Hi 👋, I'm Nkauj (Gao) Lor</h1>
 <h3 align="center">A passionate cyber security learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkaujlor&label=Profile%20views&color=0e75b6&style=flat" alt="nkaujlor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkaujlor" alt="nkaujlor" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NkaujLor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [learning how to code with](https://www.bayvalleytech.com/)
+- 🔭 I’m currently working on [coding](https://www.bayvalleytech.com/)
 
 - 🌱 I’m currently learning **Cybersecurity, Python, AWS, Docker, CSS and HTML5**
 
@@ -15,13 +15,11 @@
 
 - 🤝 I’m looking for help with **Python, AWS, Docker**
 
-- 👨‍💻 All of my projects are available at [www.github.com/NkaujLor](www.github.com/NkaujLor)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **lor_nkauj@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nkauj-lor-b242587a/](https://www.linkedin.com/in/nkauj-lor-b242587a/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
